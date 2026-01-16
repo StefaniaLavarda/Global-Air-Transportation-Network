@@ -1,0 +1,53 @@
+# Python virtual environment
+netenv/
+venv/
+.env/
+.venv/
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (raw / processed)
+data/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# Plots & figures
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Logs & outputs
+logs/
+*.log
+output/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs & editors
+
+.vscode/
+.idea/
+*.swp
+
+# Misc
+.env.local
+.envrc
