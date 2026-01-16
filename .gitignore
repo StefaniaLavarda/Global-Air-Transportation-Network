@@ -25,13 +25,6 @@ data/
 *.h5
 *.pt
 
-# Plots & figures
-*.png
-*.jpg
-*.jpeg
-*.svg
-*.pdf
-
 # Logs & outputs
 logs/
 *.log
